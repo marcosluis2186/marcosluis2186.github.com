@@ -1,2 +1,4 @@
 name: Marcos Ortiz
 markdown: kramdown
+
+theme: jekyll-theme-cayman
