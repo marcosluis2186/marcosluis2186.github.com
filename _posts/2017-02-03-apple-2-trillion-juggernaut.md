@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "$AAPL: 13 Crazy Ideas About How Apple Could Become In A $2 TRILLION Juggernaut In The Next 20 Years"
+tags: [Product Management, Venture Capital, Apple, Enterprise Software, Stocks]
 date: 2017-02-03
 ---
 The week between January 15th to January 21th, 2017 was a reveling time for myself. 
